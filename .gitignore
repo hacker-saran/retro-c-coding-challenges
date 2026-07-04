@@ -1,0 +1,17 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Mobile Tools / IDEs / Editors
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.iws
+.vscode/
+bin/
+out/
+target/
